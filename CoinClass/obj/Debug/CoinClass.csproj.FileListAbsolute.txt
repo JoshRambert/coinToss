@@ -1,0 +1,9 @@
+C:\Users\Joshua\Desktop\C#\CoinClass\CoinClass\bin\Debug\CoinClass.exe.config
+C:\Users\Joshua\Desktop\C#\CoinClass\CoinClass\bin\Debug\CoinClass.exe
+C:\Users\Joshua\Desktop\C#\CoinClass\CoinClass\bin\Debug\CoinClass.pdb
+C:\Users\Joshua\Desktop\C#\CoinClass\CoinClass\obj\Debug\CoinClass.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C#\CoinClass\CoinClass\obj\Debug\CoinClass.Form1.resources
+C:\Users\Joshua\Desktop\C#\CoinClass\CoinClass\obj\Debug\CoinClass.Properties.Resources.resources
+C:\Users\Joshua\Desktop\C#\CoinClass\CoinClass\obj\Debug\CoinClass.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C#\CoinClass\CoinClass\obj\Debug\CoinClass.exe
+C:\Users\Joshua\Desktop\C#\CoinClass\CoinClass\obj\Debug\CoinClass.pdb
